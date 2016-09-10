@@ -10,6 +10,8 @@ anyway，so
 
 2016-09-09  搭建blog
 
+![最新头像](http://ww3.sinaimg.cn/large/005Dnba3gw1f7odga4569g306k06kmxh.gif)
+
 此博客 fork 自 [Azeril](http://azeril.me/)，感谢。
 
 ##空杯心态，技术沉淀
