@@ -9,7 +9,7 @@ header-img: "img/green.jpg"
 
 
 
-我是jixuege，博客：[www.jixuege.com](可能会停用)
+我是jixuege，博客：[www.jixuege.com](www.jixuege.com)
 
 每天更新一篇博文，记录我成长路上的点滴，践行时间：2016年09月9起，缘起101计划，坚持了1半，后来因为某些事中断了，现再次拾起，希望遇到更优秀的自己。。。。。
 
