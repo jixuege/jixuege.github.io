@@ -1,12 +1,12 @@
 ---
 layout: page
 title: "About"
-description: "学苟知本，六经皆我注脚 "
+description: "只有学习才会让我感到快乐 "
 header-img: "img/green.jpg"
 ---
 
 
-
+![自我介绍](http://ww4.sinaimg.cn/large/006eWBRhjw1f7okzk043eg30p70ee0y1.gif)
 
 
 我是jixuege，博客：[www.jixuege.com](www.jixuege.com)
