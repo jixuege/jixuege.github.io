@@ -1,0 +1,32 @@
+---
+layout: post
+title: CI持续集成系列之（三）Jenkins的邮件配置及插件使用
+date: 2016-9-12
+categories: blog
+tags: [持续集成构建发布系列]
+description: 3-Jenkins的邮件配置及插件使用及跟gitlab关联拉取代码等系列操作
+---
+
+# 前言
+下面介绍的就是一些入门级别的了，包括如何去配置发送邮件，以及安装一些简单的插件去关联gitlab来拉取代码来运行一个 job。
+
+# 具体操作
+
+1、配置邮件通知
+
+系统管理==>系统设置
+![如图1](http://ww4.sinaimg.cn/large/006eWBRhjw1f7qxx271e2j30os07tjt6.jpg)
+
+找到Jenkins Location来添加管理员邮箱
+![如图2](http://ww1.sinaimg.cn/large/006eWBRhjw1f7qxy7vkthj30mb03h0tb.jpg)
+
+配置收邮件地址
+![如图3](http://ww2.sinaimg.cn/large/006eWBRhjw1f7qxyyhjnrj30n20fbjtm.jpg)
+
+保存并查看邮件
+![如图4](http://ww4.sinaimg.cn/large/006eWBRhjw1f7qxzyfxe1j30ix05q751.jpg)
+
+注意，管理员邮箱需要开启SMTP服务
+![如图5](http://ww4.sinaimg.cn/large/006eWBRhjw1f7qy2ltl1kj30m008sdhu.jpg)
+
+
