@@ -14,19 +14,21 @@ description: 3-Jenkins的邮件配置及插件使用及跟gitlab关联拉取代�
 
 1、配置邮件通知
 
-系统管理==>系统设置
+* 系统管理==>系统设置
 ![如图1](http://ww4.sinaimg.cn/large/006eWBRhjw1f7qxx271e2j30os07tjt6.jpg)
 
-找到Jenkins Location来添加管理员邮箱
+* 找到Jenkins Location来添加管理员邮箱
 ![如图2](http://ww1.sinaimg.cn/large/006eWBRhjw1f7qxy7vkthj30mb03h0tb.jpg)
 
-配置收邮件地址
+* 配置收邮件地址
 ![如图3](http://ww2.sinaimg.cn/large/006eWBRhjw1f7qxyyhjnrj30n20fbjtm.jpg)
 
-保存并查看邮件
+* 保存并查看邮件
 ![如图4](http://ww4.sinaimg.cn/large/006eWBRhjw1f7qxzyfxe1j30ix05q751.jpg)
 
-注意，管理员邮箱需要开启SMTP服务
+* 注意，管理员邮箱需要开启SMTP服务
 ![如图5](http://ww4.sinaimg.cn/large/006eWBRhjw1f7qy2ltl1kj30m008sdhu.jpg)
 
+具体可见下图
+![如图](http://ww3.sinaimg.cn/large/005Dnba3jw1f7r7wn6e79g313f0mjwzp.gif)
 
