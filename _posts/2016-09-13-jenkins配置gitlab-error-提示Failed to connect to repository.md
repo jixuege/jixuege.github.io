@@ -4,7 +4,7 @@ title: Jenkins配置gitlab地址报错Failed to connect to repository...
 date: 2016-9-13
 categories: blog
 tags: [总结,错误]
-description: Jenkins配置gitlab地址报错Failed to connect to repository : Error performing command: git ls-remote -h https://10.10.20.100/python/Python-project.git HEAD。
+description: Jenkins配置gitlab地址报错Failed to connect to repository : Error performing command: git ls-remote -h https://10.10.20.100/python/Python-project.git HEAD
 ---
 
 # 前言
