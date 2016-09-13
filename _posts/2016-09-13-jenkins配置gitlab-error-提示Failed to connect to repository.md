@@ -1,19 +1,10 @@
 ---
-
 layout: post
 title: Jenkins配置gitlab地址报错Failed to connect to repository...
 date: 2016-9-13
 categories: blog
-tags: [错误，总结]
-description: Jenkins配置gitlab地址报错Failed to connect to repository : Error performing command: git ls-remote -h https://10.10.20.100/python/Python-project.git HEAD
----
----
-layout: post
-title: MarkdownPad 2 在win10下html渲染错误This view has crashed
-date: 2015-3-02
-categories: blog
 tags: [总结,错误]
-description: 在启动MarkdownPad 2 时候win10下html渲染错误This view has crashed的解决办法。
+description: Jenkins配置gitlab地址报错Failed to connect to repository : Error performing command: git ls-remote -h https://10.10.20.100/python/Python-project.git HEAD。
 ---
 
 # 前言
