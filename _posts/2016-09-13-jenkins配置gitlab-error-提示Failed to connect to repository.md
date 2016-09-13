@@ -9,7 +9,7 @@ description: Jenkins配置gitlab地址报错
 
 # 前言
 
-在Jenkins上创建项目，配置gitlab地址报错，报错信息如下图：
+Jenkins配置gitlab地址报错Failed to connect to repository : Error performing command: git ls-remote -h https://10.10.20.100/python/Python-project.git HEAD，报错信息如下图：
 ![如图](http://7xwp9m.com1.z0.glb.clouddn.com/error.png_jixuege)
 
 # 解决办法
