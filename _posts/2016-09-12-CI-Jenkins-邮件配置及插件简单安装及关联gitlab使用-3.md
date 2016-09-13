@@ -32,3 +32,7 @@ description: 3-Jenkins的邮件配置及插件使用及跟gitlab关联拉取代�
 具体可见下图
 ![如图](http://ww3.sinaimg.cn/large/005Dnba3jw1f7r7wn6e79g313f0mjwzp.gif)
 
+2、常用插件安装
+![插件安装](http://7xwp9m.com1.z0.glb.clouddn.com/blog3-插件.png_jixuege)
+>如果安装不上，可以直接下载对应插件，放在Jenkins机器的目录/var/lib/jenkins/plugins下即可。插件下载地址：[http://updates.jenkins-ci.org/download/plugins/](http://updates.jenkins-ci.org/download/plugins/)
+
