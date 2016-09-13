@@ -36,3 +36,19 @@ description: 3-Jenkins的邮件配置及插件使用及跟gitlab关联拉取代�
 ![插件安装](http://7xwp9m.com1.z0.glb.clouddn.com/blog3-插件.png_jixuege)
 >如果安装不上，可以直接下载对应插件，放在Jenkins机器的目录/var/lib/jenkins/plugins下即可。插件下载地址：[http://updates.jenkins-ci.org/download/plugins/](http://updates.jenkins-ci.org/download/plugins/)
 
+3、添加用户认证，用于拉取gitlab代码
+![如图](http://7xwp9m.com1.z0.glb.clouddn.com/1.png_jixuege)
+
+4、拷贝jenkins的公钥到gitlab服务器
+Jenkins服务器上操作
+<pre>
+# ssh-keygen -t dsa
+#cat ~/.ssh/id_dsa.pub
+把上面的公钥拷贝到gitlab上即可。
+</pre>
+拷贝位置，按照下面操作即可。
+![如图](http://7xwp9m.com1.z0.glb.clouddn.com/拷贝公钥.gif)
+
+5、快速创建一个项目并配置gitlab和拉去代码。
+![如图](http://7xwp9m.com1.z0.glb.clouddn.com/快速拉取代码.gif)
+that's all，enjoy！！
