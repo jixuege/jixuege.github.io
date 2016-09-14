@@ -21,9 +21,13 @@ description: 常用的2个插件的安装，Gitlab Hook Plugin和Gitlab Plugin
 
 这个需要下载2个插件：
 
-gitlab-hook[http://updates.jenkins-ci.org/latest/gitlab-hook.hpi](http://updates.jenkins-ci.org/latest/gitlab-hook.hpi)
+gitlab-hook:
 
-ruby-runtime[http://updates.jenkins-ci.org/latest/ruby-runtime.hpi](http://updates.jenkins-ci.org/latest/ruby-runtime.hpi)
+[http://updates.jenkins-ci.org/latest/gitlab-hook.hpi](http://updates.jenkins-ci.org/latest/gitlab-hook.hpi)
+
+ruby-runtime:
+
+[http://updates.jenkins-ci.org/latest/ruby-runtime.hpi](http://updates.jenkins-ci.org/latest/ruby-runtime.hpi)
 
 第二步：把下载好的插件放到Jenkins机器目录下/var/lib/jenkins/plugins
 
