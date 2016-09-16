@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "关于我"
+title: "About me"
 description: "只有学习才会让我感到快乐 "
 header-img: "img/green.jpg"
 ---
