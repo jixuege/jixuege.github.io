@@ -29,18 +29,19 @@ header-img: "img/green.jpg"
 
 
 ### 关注：
-
-
+- 健身
 - 写作
-- Python
-
-
-
+- python
+- 科技
 
 ### 我的朋友们
 
-- [who](写链接地址)
-
+- [赵班长](https://www.unixhot.com/)
+- [阿伟](http://www.xuliangwei.com)
+- [python金](http://www.cnblogs.com/alex3714)
+- [python银](http://www.cnblogs.com/wupeiqi)
+- [阿想](http://lx.wxqrcode.com/)
+- [oldboy](http://oldboy.blog.51cto.com)
 ### 联系
 
 
