@@ -10,6 +10,7 @@ description: 常用的2个插件的安装，Gitlab Hook Plugin和Gitlab Plugin
 # 前言
   终于把Jenkins安装好了，发现安装最简单的插件都非常费力。总是提示失败，常用的2个插件为Gitlab Plugin（从gitlab拉取代码）和Gitlab Hook Plugin（提交代码到Gitlab触发自动构建）。
 下面就介绍如何手动安装这2个插件，亲测有效。
+贴一个插件地址：[http://updates.jenkins-ci.org/download/plugins/](http://updates.jenkins-ci.org/download/plugins/)
 
 # 具体操作
 其实很简单，跟把大象放到冰箱步骤是一样的，也是分为3部分。
