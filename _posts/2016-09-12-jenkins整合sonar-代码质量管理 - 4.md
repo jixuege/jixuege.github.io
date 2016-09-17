@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CI持续集成系列之（四）持续代码质量管理-Sonar部署及使用
-date: 2016-9-15
+date: 2016-9-12
 categories: blog
 tags: [持续集成构建发布系列]
 description: 持续代码质量管理-Sonar部署及使用并结合jenkins使用
