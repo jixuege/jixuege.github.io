@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  [已解决]CentOS 7安装后没有killall、ifconfig、命令补全
+title: CentOS 7安装后没有killall、ifconfig、命令补全
 date: 2016-9-15
 categories: blog
 tags: [总结,错误]
