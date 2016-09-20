@@ -8,8 +8,9 @@ description: Linux服务器上利用samba来创建windows下的文件共享服�
 ---
 
 # 前言 #
+Samba是一个能让Linux系统应用Microsoft网络通讯协议的软件，而SMB是Server Message Block的缩写，即为服务器消息块 ，SMB主要是作为Microsoft的网络通讯协议，后来Samba将SMB通信协议应用到了Linux系统上，就形成了现在的Samba软件。后来微软又把 SMB 改名为 CIFS（Common Internet File System），即公共 Internet 文件系统，并且加入了许多新的功能，这样一来，使得Samba具有了更强大的功能。
 
-有一天，领导说，XX，给我们部门单独来个文件共享吧，把一些常用的服务放进来，这样，以后大家需要什么软件，比如visor ，亿图之类的可以执行在这个地方找。好吧，所以有了下面这篇在Linux服务器上利用samba来创建windows下的文件共享服务器。
+Samba最大的功能就是可以用于Linux与windows系统直接的文件共享。下面就手把手教你在 Linux服务器上利用samba来创建windows下的文件共享服务器。
 
 # 具体实践 #
 当前系统：centos 6
