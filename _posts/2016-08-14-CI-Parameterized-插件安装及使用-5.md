@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CI持续集成系列之（五）Jenkins多项目的关联
-date: 2016-9-12
+date: 2016-8-14
 categories: blog
 tags: [持续集成构建发布系列]
 description: Jenkins多项目的关联，例如把sonar和发布项目管理起来

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CI持续集成系列之（六）pipeline插件的安装及使用
-date: 2016-9-12
+date: 2016-8-15
 categories: blog
 tags: [持续集成构建发布系列]
 description: 安装pipeline更好的查看构建执行先后顺序效果

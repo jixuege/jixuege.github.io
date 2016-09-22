@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CI持续集成系列之（三）Jenkins的邮件配置及插件使用
-date: 2016-9-12
+date: 2016-8-12
 categories: blog
 tags: [持续集成构建发布系列]
 description: 3-Jenkins的邮件配置及插件使用及跟gitlab关联拉取代码等系列操作
