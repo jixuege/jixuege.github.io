@@ -33,7 +33,7 @@ systemctl restart jenkins
 
 ![rt](http://7xwp9m.com1.z0.glb.clouddn.com/6-pipe创建.png_jixuege)
 ![rt](http://7xwp9m.com1.z0.glb.clouddn.com/6-pipe项目配置.png_jixuege)
-点击保存！！
+点击保存。
 
 ## 验证
 
