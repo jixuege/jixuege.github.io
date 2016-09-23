@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Linux（centOS）OpenVPN客户端配置
+title: Linux服务上搭建OpenVPN客户端
 date: 2016-9-23
 categories: blog
 tags: [常见服务，openVPN]
