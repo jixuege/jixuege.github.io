@@ -1,7 +1,6 @@
 ---
 layout: post
-title: sudo echo "hehe" > /usr/share/nginx/html/index.html 
-提示权限不够
+title: sudo echo "hehe" > /usr/share/nginx/html/index.html提示权限不够
 date: 2016-9-23
 categories: blog
 tags: [错误总结，sudo]
