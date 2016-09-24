@@ -1,6 +1,6 @@
- ---
+---
 layout: post
-title: Starting Jenkins bash: /usr/bin/java: No such file or directory
+title: centos7启动Jenkins报错java: No such file or directory
 date: 2016-9-24
 categories: blog
 tags: [错误总结，jenkins]
