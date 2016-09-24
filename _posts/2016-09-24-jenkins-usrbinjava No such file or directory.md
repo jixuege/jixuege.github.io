@@ -4,7 +4,7 @@ title: centos7启动Jenkins报错java No such file or directory
 date: 2016-9-24
 categories: blog
 tags: [错误总结，jenkins]
-description: 在centos7上启动Jenkins时提示bash: /usr/bin/java: No such file or directory的解决办法
+description: 在centos7上启动Jenkins时提示报错的解决办法
 ---
 
 # 前言
