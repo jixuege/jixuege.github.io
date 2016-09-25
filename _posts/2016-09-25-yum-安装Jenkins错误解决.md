@@ -50,3 +50,5 @@ CentOS 7
 wget -O /etc/yum.repos.d/CentOS-Base.repo http://mirrors.aliyun.com/repo/Centos-7.repo
 3、之后运行yum makecache生成缓存
 </pre>
+
+that's all，enjoy！！
