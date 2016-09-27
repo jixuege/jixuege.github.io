@@ -44,7 +44,7 @@ root@linux-node1-219 src]# rpm -ivh glusterfs-rdma-3.5.9-1.el7.x86_64.rpm
 
 解决办法：
 
-我在系统优化的时候都会安装如下软件来解决依赖问题,注意rpm包安装是由顺序的。
+我在系统优化的时候都会安装如下软件来解决依赖问题,注意rpm包安装是有顺序的。
 <pre>
 yum install -y rsyslog-mmjsonparse  attr nfs-utils psmisc rpcbind liburcu* userspace-rcu vim lrzsz net-tools lvm* libibverbs  librdmacm 
 </pre>
