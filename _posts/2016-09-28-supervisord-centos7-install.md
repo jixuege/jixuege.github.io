@@ -9,11 +9,14 @@ description: 如何在centos 7上搭建supervisor
 
 #  前言
 
+
 在做自动化集成的时候，由于一些启动命令需要用到supervisord 来管理，所以就需要使用supervisor，这里顺便就写一下如何在centos 7上搭建supervisor
 
 # 具体操作
 
+
 ## 1、安装supervisor
+
 
 <pre>
 pip install supervisor
@@ -22,7 +25,9 @@ echo_supervisord_conf > /etc/supervisord.conf
  mkdir /etc/supervisord.d/
 </pre>
 
+
 ## 2、修改配置文件
+
 
 <pre>
 vim /etc/supervisord.conf，在其中加入如下：
@@ -51,7 +56,9 @@ ExecReload=/bin/kill -HUP $MAINPID
 WantedBy=multi-user.target
 </pre>
 
+
 ## 3、启动服务
+
 
 <pre>
 systemctl start supervisord.service
