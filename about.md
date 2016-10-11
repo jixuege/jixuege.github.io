@@ -6,7 +6,7 @@ header-img: "img/green.jpg"
 ---
 
 
-![自我介绍](http://ww4.sinaimg.cn/large/006eWBRhjw1f7okzk043eg30p70ee0y1.gif)
+![自我介绍](http://7xwp9m.com1.z0.glb.clouddn.com/introduce.gif)
 
 
 我是jixuege，博客：[www.jixuege.com](www.jixuege.com)
