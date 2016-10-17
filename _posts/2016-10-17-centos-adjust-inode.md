@@ -16,7 +16,6 @@ description: Centos7 调整inode数量
 
 下面以ext4为例子
 
-
 <pre>
 #以下操作/dev/sdaX数据将会全部丢失
 mkfs.ext4 -N 希望的Inode数 /dev/sdaX
