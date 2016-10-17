@@ -6,7 +6,7 @@ header-img: "img/green.jpg"
 ---
 
 
-![自我介绍](http://7xwp9m.com1.z0.glb.clouddn.com/introduce.gif)
+![自我介绍](http://7xwp9m.com1.z0.glb.clouddn.com/自我介绍.gif)
 
 
 我是jixuege，博客：[www.jixuege.com](www.jixuege.com)
@@ -47,6 +47,7 @@ header-img: "img/green.jpg"
 
 ### 联系
 
+linux_xd@sina.com
 
 
 
