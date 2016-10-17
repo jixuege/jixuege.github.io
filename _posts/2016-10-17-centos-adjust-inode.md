@@ -29,3 +29,4 @@ that's all，enjoy！！
 参考blog：
 
 [http://www.centoscn.com/CentOS/config/2013/1017/1872.html](http://www.centoscn.com/CentOS/config/2013/1017/1872.html )
+[http://www.bkjia.com/Windowsjc/622212.html](http://www.bkjia.com/Windowsjc/622212.html)
