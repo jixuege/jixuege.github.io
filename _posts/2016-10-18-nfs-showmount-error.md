@@ -4,7 +4,7 @@ title: nfs showmout提示clnt_create RPC Program not registered
 date: 2016-10-18
 categories: blog
 tags: [nfs，Linux]
-description: nfs showmout提示clnt_create: RPC: Program not registered
+description: nfs showmout提示clnt_create RPC Program not registered
 ---
 
 # 前言
