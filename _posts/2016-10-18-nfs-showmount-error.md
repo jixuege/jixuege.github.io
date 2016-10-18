@@ -52,7 +52,6 @@ Job for nfs-server.service failed because the control process exited with error 
 [root@localhost ~]# systemctl restart nfs
 </pre>
 
-
 that's all，enjoy！！
 
 参考blog：
