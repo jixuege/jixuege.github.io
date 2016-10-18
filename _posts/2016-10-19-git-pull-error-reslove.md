@@ -29,6 +29,8 @@ yum -y install git-core gitk git-gui
 
 that's all，enjoy！！
 
+
 参考blog：
+
 [http://blog.csdn.net/yanwuhuan/article/details/7412370](http://blog.csdn.net/yanwuhuan/article/details/7412370)
 [http://chenchao40322.blog.51cto.com/2181131/603357](http://chenchao40322.blog.51cto.com/2181131/603357)
