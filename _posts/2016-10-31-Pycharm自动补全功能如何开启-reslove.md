@@ -16,7 +16,6 @@ description: Pycharm开启自动补全功能
 把下图这个地方取消即可。这个功能叫做：节能模式。
 ![rutu](http://7xwp9m.com1.z0.glb.clouddn.com/QQ图片20161031091550.png_jixuege)
 
-
 具体表现就是：关闭后，Pycharm就跟文本编辑器差不多了，不会去关联上下文，像纠错，联想等关键字等功能都没了。
 
 PS：
