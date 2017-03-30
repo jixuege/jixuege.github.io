@@ -36,7 +36,7 @@ docker-compose up -d
 </pre>
 
 如何使用呢？如果docker版本是1.12以上的，那么就需要进行修改仓库地址, 把框的地方写上你的仓库域名地址，比如www.harbortest.com
-![rt](http://7xwp9m.com1.z0.glb.clouddn.com/Image.png_jixuege)
+![rt](http://7xwp9m.com1.z0.glb.clouddn.com/I1.png_jixuege)
 
 还需要公开仓库，不公开就需要先登录然后在pull。登入方法如下：
 
