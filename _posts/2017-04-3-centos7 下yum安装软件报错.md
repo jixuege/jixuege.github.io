@@ -1,4 +1,4 @@
-e---
+---
 layout: post
 title: Centos7下yum安装软件报错解决办法
 date: 2017-04-2
