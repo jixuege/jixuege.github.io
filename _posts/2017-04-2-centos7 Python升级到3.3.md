@@ -3,7 +3,7 @@ layout: post
 title: Centos7下升级Python版本到3.3
 date: 2017-04-2
 categories: blog
-tags: [NFS,centos7]
+tags: [python,centos7]
 description: Centos7下升级Python版本到3.3
 ---
 
