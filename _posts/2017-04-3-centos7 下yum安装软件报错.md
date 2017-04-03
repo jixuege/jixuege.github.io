@@ -5,7 +5,6 @@ date: 2017-04-2
 categories: blog
 tags: [NFS,centos7]
 description: Centos7下升级使用yum报错
-  File "/usr/bin/yum", line 29, in <module>
 ---
 
 
