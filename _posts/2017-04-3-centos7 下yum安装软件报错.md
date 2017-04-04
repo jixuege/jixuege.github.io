@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Centos7下yum安装软件报错解决办法
-date: 2017-04-2
+date: 2017-04-3
 categories: blog
 tags: [yum,centos7]
 description: Centos7下升级使用yum报错
