@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python的模板继承
+title: linux 上的python的模板继承
 date: 2017-04-10
 categories: blog
 tags: [Django,Python]
