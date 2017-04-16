@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【已解决】WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!
+title: 【已解决】WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED
 date: 2017-04-15
 categories: blog
 tags: [publickey,Linux]
