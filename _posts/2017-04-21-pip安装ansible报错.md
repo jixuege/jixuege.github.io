@@ -5,7 +5,7 @@ date: 2017-04-21
 categories: blog
 tags: [error,pip]
 description: pip 安装ansible提示 error command gcc failed with exit status 1
-
+---
 
 ## 前言
 装ansible报错error: command 'gcc' failed with exit status 1

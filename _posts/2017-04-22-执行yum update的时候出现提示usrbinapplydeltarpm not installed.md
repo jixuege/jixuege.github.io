@@ -5,7 +5,7 @@ date: 2017-04-22
 categories: blog
 tags: [error,yum]
 description: 执行yum update的时候出现提示usrbinapplydeltarpm not installed
-
+---
 
 ## 前言
 更新yum的时候出现下面提示：
