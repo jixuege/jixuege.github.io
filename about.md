@@ -43,7 +43,7 @@ header-img: "img/green.jpg"
 - [阿想](http://lx.wxqrcode.com/)
 - [oldboy](http://oldboy.blog.51cto.com)
 - [OX](https://wsgzao.github.io/)
-- [张杰](https://www.studylinux.net/)
+- [张杰](http://www.studylinux.net/)
 
 
 ### 联系
