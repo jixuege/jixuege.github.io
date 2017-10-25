@@ -42,8 +42,7 @@ header-img: "img/green.jpg"
 - [python银](http://www.cnblogs.com/wupeiqi)
 - [阿想](http://lx.wxqrcode.com/)
 - [oldboy](http://oldboy.blog.51cto.com)
-- [OX](https://wsgzao.github.io/)
-- [张杰](http://www.studylinux.net/)
+
 
 
 ### 联系
