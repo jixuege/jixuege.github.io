@@ -17,7 +17,7 @@ description: 在使用supervisorctl 的时候，提示上面错误refused connec
 以后，还是得去多思考会不会是当前环境的问题，这次就遇到了。
 
 具体修改文件如下：
-
+配置文件： /etc/supervisord.conf
 <pre>
 ; supervisor config file
 
