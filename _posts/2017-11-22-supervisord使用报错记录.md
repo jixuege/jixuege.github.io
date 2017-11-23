@@ -54,7 +54,7 @@ serverurl=unix:///var/run//supervisor.sock ; use a unix:// URL  for a unix socke
 files = /etc/supervisor/conf.d/*.conf
 
 </pre>
-
+over
 
 
 
